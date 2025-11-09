@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thedusketeers.com/sitemap.xml
